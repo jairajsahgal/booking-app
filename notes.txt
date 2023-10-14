@@ -1,0 +1,5 @@
+//? What is a pointer?
+//* A pointer is a variable that stores the memory address of another variable. Pointers in Go are represented using the asterisk * symbol.
+
+//? What does & mean?
+//* The & operator returns the memory address of the variable preceding it. So &variable_name returns a pointer to the variable variable_name. This is commonly used to pass a pointer to a function instead of passing the variable by value.
